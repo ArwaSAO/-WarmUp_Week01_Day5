@@ -1,4 +1,4 @@
-# WarmUp_Week01_Day4 🔥
+# WarmUp_Week01_Day5 🔥
 ---
 
 ## 1. In the code below, Try a null check that throws an Exception instead of returning zero.
